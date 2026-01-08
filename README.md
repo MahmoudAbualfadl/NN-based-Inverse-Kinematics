@@ -1,4 +1,4 @@
-# Assignment-1-NN-based-Inverse-Kinematics
+# NN-based-Inverse-Kinematics
 # Neural Network-based Inverse Kinematics
 
 ## Overview
